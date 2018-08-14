@@ -1,2 +1,6 @@
 # hello-world
-This is my first project on github. My Hello World!
+
+Hi guys! 
+
+My name is John Andrew! I like java and code. 
+While code drink a coffe!
